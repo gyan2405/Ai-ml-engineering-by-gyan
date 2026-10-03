@@ -1,0 +1,14 @@
+{
+  "name":"AI Journey 180 - Kids Edition",
+  "short_name":"AI Journey 180",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#14123b",
+  "theme_color":"#14123b",
+  "description":"A 180-day interactive AI/ML learning journey.",
+  "orientation":"portrait-primary",
+  "icons":[
+    {"src":"icons/icon-180.png","sizes":"180x180","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
